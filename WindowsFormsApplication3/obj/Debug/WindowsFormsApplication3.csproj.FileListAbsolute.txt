@@ -1,0 +1,12 @@
+c:\users\gssharik\documents\visual studio 2015\Projects\BOM Vs Alternate\WindowsFormsApplication3\bin\Debug\BOM Vs Alternate.exe.config
+c:\users\gssharik\documents\visual studio 2015\Projects\BOM Vs Alternate\WindowsFormsApplication3\bin\Debug\BOM Vs Alternate.exe
+c:\users\gssharik\documents\visual studio 2015\Projects\BOM Vs Alternate\WindowsFormsApplication3\bin\Debug\BOM Vs Alternate.pdb
+c:\users\gssharik\documents\visual studio 2015\Projects\BOM Vs Alternate\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+c:\users\gssharik\documents\visual studio 2015\Projects\BOM Vs Alternate\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\gssharik\documents\visual studio 2015\Projects\BOM Vs Alternate\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\gssharik\documents\visual studio 2015\Projects\BOM Vs Alternate\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\gssharik\documents\visual studio 2015\Projects\BOM Vs Alternate\WindowsFormsApplication3\obj\Debug\BOM Vs Alternate.exe
+c:\users\gssharik\documents\visual studio 2015\Projects\BOM Vs Alternate\WindowsFormsApplication3\obj\Debug\BOM Vs Alternate.pdb
+C:\Users\gssharik\Source\Repos\CMP\WindowsFormsApplication3\bin\Debug\BOM Vs Alternate.exe.config
+C:\Users\gssharik\Source\Repos\CMP\WindowsFormsApplication3\obj\Debug\BOM Vs Alternate.exe
+C:\Users\gssharik\Source\Repos\CMP\WindowsFormsApplication3\obj\Debug\BOM Vs Alternate.pdb
